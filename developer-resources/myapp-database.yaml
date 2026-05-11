@@ -1,7 +1,7 @@
 apiVersion: kro.run/v1alpha1
 kind: AppDatabase
 metadata:
-  name: myapp-databasebollie1
+  name: myapp-database-bollie1
   namespace: default
 spec:
   appName: myapp
